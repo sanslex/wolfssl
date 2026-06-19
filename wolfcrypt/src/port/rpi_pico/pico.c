@@ -26,6 +26,7 @@
 #include <string.h>
 #include <wolfssl/wolfcrypt/settings.h>
 #include <wolfssl/wolfcrypt/types.h>
+#include <wolfssl/wolfcrypt/error.h>
 
 #if defined(WOLFSSL_RPIPICO)
 #include "pico/rand.h"
